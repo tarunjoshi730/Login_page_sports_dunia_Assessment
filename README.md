@@ -17,7 +17,8 @@ This application is a Vendor Management System that provides functionalities to 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/suzelkhan1177/Sports_Dunia_Assessment.git
+    git clone https://github.com/tarunjoshi730/Login_page_sports_dunia_Assessment.git
+    hosting site: https://tarunjoshi730.github.io/Login_page_sports_dunia_Assessment/
     cd Sports_Dunia_Assessment
     ```
 
