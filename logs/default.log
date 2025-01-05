@@ -193,3 +193,6 @@
 2024-08-21T20:15:38.848Z info: Historical Performance created:
 2024-08-21T20:15:38.848Z info: Create Historical Performance - Performance Created
 2024-08-21T20:15:55.627Z info: Retrieved historical performance by vendor ID:
+2025-01-05T09:41:21.778Z info: Connected to the MySQL database mysql2
+2025-01-05T09:41:21.795Z error: Error creating Vendor table: connect ECONNREFUSED 127.0.0.1:3306
+2025-01-05T09:41:21.796Z error: Error creating HistoricalPerformance table: connect ECONNREFUSED 127.0.0.1:3306
