@@ -19,10 +19,11 @@ This application is a Vendor Management System that provides functionalities to 
     ```bash
     git clone https://github.com/tarunjoshi730/Login_page_sports_dunia_Assessment.git
     hosting site: https://tarunjoshi730.github.io/Login_page_sports_dunia_Assessment/
-    Next Phase for vendor Github LInk Repo:https://github.com/tarunjoshi730/Sports_Duniyaa_Assessment_Diffrent_Create
+  
     cd Sports_Dunia_Assessment
     ```
-
+  Next Phase for vendor Github LInk Repo:
+  ```https://github.com/tarunjoshi730/Sports_Duniyaa_Assessment_Diffrent_Create```
 2. **Install Dependencies**
 
     ```bash
