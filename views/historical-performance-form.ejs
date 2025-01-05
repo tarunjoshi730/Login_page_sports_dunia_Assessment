@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Performance Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        
+        .form-card {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 400px;
+            border: 2px solid black;
+        }
+        
+        .form-card h1 {
+            margin-bottom: 20px;
+        }
+        
+        .form-card form {
+            margin-bottom: 20px;
+        }
+        
+        .form-card label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        .form-card input[type="text"],
+        .form-card input[type="number"],
+        .form-card input[type="date"] {
+            width: 100%;
+            padding: 5px;
+            margin-bottom: 10px;
+        }
+        
+        .form-card button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .form-card button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-card">
+        <h1>Historical Performance Form</h1>
+        <form action="/api/historical_performance" method="POST">
+            <label for="vendorId">Vendor ID:</label>
+            <input type="number" id="vendorId" name="vendorId" required>
+            <br>
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date" required>
+            <br>
+            <label for="onTimeDeliveryRate">On-Time Delivery Rate:</label>
+            <input type="number" id="onTimeDeliveryRate" name="onTimeDeliveryRate" step="0.01" min="0" max="100" required>
+            <br>
+            <label for="qualityRatingAvg">Quality Rating Average:</label>
+            <input type="number" id="qualityRatingAvg" name="qualityRatingAvg" step="0.01" min="0" max="5" required>
+            <br>
+            <label for="averageResponseTime">Average Response Time:</label>
+            <input type="number" id="averageResponseTime" name="averageResponseTime" step="0.01" min="0" required>
+            <br>
+            <label for="fulfillmentRate">Fulfillment Rate:</label>
+            <input type="number" id="fulfillmentRate" name="fulfillmentRate" step="0.01" min="0" max="100" required>
+            <br>
+            <button type="submit">Submit Historical Performance</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+2024-08-21T18:30:17.415Z info: Connected to the MySQL database mysql2
+2024-08-21T18:30:19.036Z info: Connected to the MySQL database mysql2
+2024-08-21T18:30:22.994Z info: Connected to the MySQL database mysql2
+2024-08-21T18:30:32.472Z info: Connected to the MySQL database mysql2
+2024-08-21T18:30:50.923Z info: Connected to the MySQL database mysql2
+2024-08-21T18:30:53.909Z info: Connected to the MySQL database mysql2
+2024-08-21T18:30:59.073Z info: Connected to the MySQL database mysql2
+2024-08-21T18:31:01.490Z info: Connected to the MySQL database mysql2
+2024-08-21T18:31:04.250Z error: Error listing purchase orders:
+2024-08-21T18:31:11.774Z info: Connected to the MySQL database mysql2
+2024-08-21T18:31:20.990Z info: Connected to the MySQL database mysql2
+2024-08-21T18:31:28.523Z info: Connected to the MySQL database mysql2
+2024-08-21T18:31:57.650Z info: Connected to the MySQL database mysql2
+2024-08-21T18:32:01.483Z info: Connected to the MySQL database mysql2
+2024-08-21T18:32:03.270Z info: Connected to the MySQL database mysql2
+2024-08-21T18:32:05.288Z info: Connected to the MySQL database mysql2
+2024-08-21T18:32:06.290Z error: Error listing purchase orders:
+2024-08-21T18:32:14.525Z info: Connected to the MySQL database mysql2
+2024-08-21T18:32:29.821Z info: Connected to the MySQL database mysql2
+2024-08-21T18:33:11.120Z info: Connected to the MySQL database mysql2
+2024-08-21T18:33:17.589Z info: Connected to the MySQL database mysql2
+2024-08-21T18:33:20.594Z info: Connected to the MySQL database mysql2
+2024-08-21T18:33:21.312Z error: Error listing purchase orders:
+2024-08-21T18:33:31.952Z info: Connected to the MySQL database mysql2
+2024-08-21T18:33:59.372Z info: Connected to the MySQL database mysql2
+2024-08-21T18:34:04.273Z info: Connected to the MySQL database mysql2
+2024-08-21T18:34:12.450Z info: Connected to the MySQL database mysql2
+2024-08-21T18:34:20.435Z info: Connected to the MySQL database mysql2
+2024-08-21T18:34:24.320Z info: Connected to the MySQL database mysql2
+2024-08-21T18:34:26.069Z error: Error listing purchase orders:
+2024-08-21T18:34:30.776Z info: Connected to the MySQL database mysql2
+2024-08-21T18:34:49.869Z info: Connected to the MySQL database mysql2
+2024-08-21T18:34:52.454Z info: Connected to the MySQL database mysql2
+2024-08-21T18:34:55.340Z info: Connected to the MySQL database mysql2
+2024-08-21T18:35:05.710Z info: Connected to the MySQL database mysql2
+2024-08-21T18:35:13.405Z info: Connected to the MySQL database mysql2
+2024-08-21T18:35:25.356Z info: Connected to the MySQL database mysql2
+2024-08-21T18:35:26.565Z info: Retrieved all purchase orders
+2024-08-21T18:35:52.332Z info: Connected to the MySQL database mysql2
+2024-08-21T18:35:55.057Z info: Connected to the MySQL database mysql2
+2024-08-21T18:35:56.112Z info: Connected to the MySQL database mysql2
+2024-08-21T18:35:58.713Z info: Connected to the MySQL database mysql2
+2024-08-21T18:36:03.834Z info: Connected to the MySQL database mysql2
+2024-08-21T18:36:04.158Z info: Retrieved all purchase orders
+2024-08-21T18:36:11.780Z info: Retrieved vendor by ID:
+2024-08-21T18:36:11.800Z info: Purchase Order created:
+2024-08-21T18:36:35.357Z info: Connected to the MySQL database mysql2
+2024-08-21T18:36:36.866Z info: Retrieved all purchase orders
+2024-08-21T18:36:52.016Z info: Connected to the MySQL database mysql2
+2024-08-21T18:36:54.856Z info: Connected to the MySQL database mysql2
+2024-08-21T18:37:54.385Z info: Connected to the MySQL database mysql2
+2024-08-21T18:39:12.297Z info: Purchase Order deleted:
+2024-08-21T18:39:20.038Z info: Retrieved purchase order by ID:
+2024-08-21T18:41:11.604Z info: Connected to the MySQL database mysql2
+2024-08-21T18:45:52.154Z info: Connected to the MySQL database mysql2
+2024-08-21T18:46:05.438Z info: Connected to the MySQL database mysql2
+2024-08-21T18:46:08.876Z info: Connected to the MySQL database mysql2
+2024-08-21T18:46:11.255Z info: Connected to the MySQL database mysql2
+2024-08-21T18:46:18.687Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:06.296Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:14.995Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:27.560Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:41.938Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:45.822Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:50.409Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:50.488Z info: HistoricalPerformance table created successfully
+2024-08-21T18:49:52.072Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:54.673Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:55.967Z info: Connected to the MySQL database mysql2
+2024-08-21T18:49:59.509Z info: Connected to the MySQL database mysql2
+2024-08-21T18:50:02.265Z info: Connected to the MySQL database mysql2
+2024-08-21T18:50:06.394Z info: Connected to the MySQL database mysql2
+2024-08-21T18:50:12.688Z info: Connected to the MySQL database mysql2
+2024-08-21T18:51:12.443Z error: Error updating purchase order: Data truncated for column 'status' at row 1
+2024-08-21T18:52:42.795Z info: Connected to the MySQL database mysql2
+2024-08-21T18:52:55.601Z info: Connected to the MySQL database mysql2
+2024-08-21T18:52:59.022Z error: Error updating vendor: db is not defined
+2024-08-21T18:52:59.024Z error: Error updating purchase order: db is not defined
+2024-08-21T18:53:07.242Z error: Error updating vendor: db is not defined
+2024-08-21T18:53:07.243Z error: Error updating purchase order: db is not defined
+2024-08-21T18:53:11.975Z error: Error updating vendor: db is not defined
+2024-08-21T18:53:11.976Z error: Error updating purchase order: db is not defined
+2024-08-21T18:53:43.872Z info: Connected to the MySQL database mysql2
+2024-08-21T18:53:45.074Z error: Error updating vendor: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:53:45.075Z error: Error updating purchase order: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:53:46.897Z error: Error updating vendor: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:53:46.898Z error: Error updating purchase order: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:53:48.283Z error: Error updating vendor: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:53:48.283Z error: Error updating purchase order: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:55:21.455Z info: Connected to the MySQL database mysql2
+2024-08-21T18:55:22.726Z info: Connected to the MySQL database mysql2
+2024-08-21T18:55:24.453Z info: Connected to the MySQL database mysql2
+2024-08-21T18:55:27.018Z error: Error updating vendor: db is not defined
+2024-08-21T18:55:27.020Z error: Error updating purchase order: db is not defined
+2024-08-21T18:56:10.047Z info: Connected to the MySQL database mysql2
+2024-08-21T18:56:11.803Z error: Error updating vendor: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:56:11.804Z error: Error updating purchase order: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:56:29.939Z error: Error updating vendor: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:56:29.940Z error: Error updating purchase order: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:58:04.955Z error: Error updating vendor: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:58:04.956Z error: Error updating purchase order: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:58:17.199Z error: Error updating vendor: Unknown column 'orderDate' in 'field list'
+2024-08-21T18:58:17.200Z error: Error updating purchase order: Unknown column 'orderDate' in 'field list'
+2024-08-21T18:59:37.142Z error: Error updating vendor: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:59:37.143Z error: Error updating purchase order: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:59:50.597Z error: Error updating vendor: Unknown column 'vendorId' in 'field list'
+2024-08-21T18:59:50.597Z error: Error updating purchase order: Unknown column 'vendorId' in 'field list'
+2024-08-21T19:06:40.772Z info: Connected to the MySQL database mysql2
+2024-08-21T19:07:33.702Z info: Connected to the MySQL database mysql2
+2024-08-21T19:08:21.459Z info: Connected to the MySQL database mysql2
+2024-08-21T19:08:48.614Z info: Connected to the MySQL database mysql2
+2024-08-21T19:09:28.859Z info: Connected to the MySQL database mysql2
+2024-08-21T19:09:57.674Z info: Connected to the MySQL database mysql2
+2024-08-21T19:10:03.420Z info: Connected to the MySQL database mysql2
+2024-08-21T19:12:00.693Z info: Connected to the MySQL database mysql2
+2024-08-21T19:12:06.330Z info: Connected to the MySQL database mysql2
+2024-08-21T19:14:14.285Z info: Connected to the MySQL database mysql2
+2024-08-21T19:14:15.425Z info: Connected to the MySQL database mysql2
+2024-08-21T19:14:18.145Z info: Connected to the MySQL database mysql2
+2024-08-21T19:14:22.927Z info: Connected to the MySQL database mysql2
+2024-08-21T19:14:24.250Z info: Connected to the MySQL database mysql2
+2024-08-21T19:14:33.184Z info: Connected to the MySQL database mysql2
+2024-08-21T19:14:35.260Z info: Connected to the MySQL database mysql2
+2024-08-21T19:15:59.156Z info: Connected to the MySQL database mysql2
+2024-08-21T19:16:00.527Z info: Connected to the MySQL database mysql2
+2024-08-21T19:16:10.014Z info: Connected to the MySQL database mysql2
+2024-08-21T19:16:24.657Z info: Connected to the MySQL database mysql2
+2024-08-21T19:16:41.553Z info: Connected to the MySQL database mysql2
+2024-08-21T19:17:01.580Z info: Connected to the MySQL database mysql2
+2024-08-21T19:25:56.100Z info: Connected to the MySQL database mysql2
+2024-08-21T19:26:58.433Z info: Connected to the MySQL database mysql2
+2024-08-21T19:27:38.733Z info: Connected to the MySQL database mysql2
+2024-08-21T19:27:43.438Z info: Connected to the MySQL database mysql2
+2024-08-21T19:27:45.106Z info: Connected to the MySQL database mysql2
+2024-08-21T19:28:20.365Z info: Connected to the MySQL database mysql2
+2024-08-21T19:28:21.835Z info: Connected to the MySQL database mysql2
+2024-08-21T19:28:35.668Z info: Connected to the MySQL database mysql2
+2024-08-21T19:28:39.503Z info: Connected to the MySQL database mysql2
+2024-08-21T19:28:58.418Z info: Connected to the MySQL database mysql2
+2024-08-21T19:29:10.254Z info: Connected to the MySQL database mysql2
+2024-08-21T19:29:26.202Z info: Connected to the MySQL database mysql2
+2024-08-21T19:29:39.483Z info: Connected to the MySQL database mysql2
+2024-08-21T19:29:43.819Z info: Connected to the MySQL database mysql2
+2024-08-21T19:31:12.116Z info: Checked vendor code existence:
+2024-08-21T19:31:12.117Z info: Generated unique vendor code:
+2024-08-21T19:31:12.117Z info: Create Vendor - Generated Vendor Code
+2024-08-21T19:31:12.123Z info: Vendor created:
+2024-08-21T19:31:12.124Z info: Create Vendor - Vendor Created
+2024-08-21T19:31:18.590Z info: Checked vendor code existence:
+2024-08-21T19:31:18.590Z info: Generated unique vendor code:
+2024-08-21T19:31:18.591Z info: Create Vendor - Generated Vendor Code
+2024-08-21T19:31:18.594Z info: Vendor created:
+2024-08-21T19:31:18.595Z info: Create Vendor - Vendor Created
+2024-08-21T19:31:58.199Z info: Retrieved vendor by ID:
+2024-08-21T19:31:58.203Z info: Purchase Order created:
+2024-08-21T19:32:30.799Z error: Error creating historical performance: Cannot add or update a child row: a foreign key constraint fails (`vendor_management_system`.`historicalperformance`, CONSTRAINT `historicalperformance_ibfk_1` FOREIGN KEY (`vendorId`) REFERENCES `vendor` (`id`))
+2024-08-21T19:34:43.267Z info: Connected to the MySQL database mysql2
+2024-08-21T19:34:47.840Z warn: Create Historical Performance - Vendor does not exist
+2024-08-21T19:34:56.287Z info: Historical Performance created:
+2024-08-21T19:34:56.288Z info: Create Historical Performance - Performance Created
+2024-08-21T19:35:28.909Z info: Connected to the MySQL database mysql2
+2024-08-21T19:35:52.196Z info: Connected to the MySQL database mysql2
+2024-08-21T19:35:54.528Z info: Connected to the MySQL database mysql2
+2024-08-21T19:35:55.704Z info: Connected to the MySQL database mysql2
+2024-08-21T19:35:58.838Z info: Connected to the MySQL database mysql2
+2024-08-21T19:36:02.976Z info: Historical Performance created:
+2024-08-21T19:36:02.976Z info: Create Historical Performance - Performance Created
+2024-08-21T19:36:57.765Z info: Connected to the MySQL database mysql2
+2024-08-21T19:37:06.382Z info: Historical Performance created:
+2024-08-21T19:37:06.383Z info: Create Historical Performance - Performance Created
+2024-08-21T19:37:47.513Z info: Retrieved historical performance by vendor ID:
+2024-08-21T19:41:34.726Z info: Connected to the MySQL database mysql2
+2024-08-21T19:41:52.342Z info: Connected to the MySQL database mysql2
+2024-08-21T19:41:57.173Z info: Connected to the MySQL database mysql2
+2024-08-21T19:42:16.518Z info: Connected to the MySQL database mysql2
+2024-08-21T19:56:47.677Z info: Connected to the MySQL database mysql2
+2024-08-21T20:03:45.657Z info: Connected to the MySQL database mysql2
+2024-08-21T20:04:09.455Z info: Connected to the MySQL database mysql2
+2024-08-21T20:10:10.020Z info: Vendor deleted:
+2024-08-21T20:10:10.021Z info: Delete Vendor - Vendor deleted successfully
+2024-08-21T20:10:12.557Z info: Vendor deleted:
+2024-08-21T20:10:12.558Z info: Delete Vendor - Vendor deleted successfully
+2024-08-21T20:11:16.645Z info: Checked vendor code existence:
+2024-08-21T20:11:16.646Z info: Generated unique vendor code:
+2024-08-21T20:11:16.646Z info: Create Vendor - Generated Vendor Code
+2024-08-21T20:11:16.650Z info: Vendor created:
+2024-08-21T20:11:16.651Z info: Create Vendor - Vendor Created
+2024-08-21T20:11:50.692Z info: Retrieved vendor by ID:
+2024-08-21T20:11:50.697Z info: Purchase Order created:
+2024-08-21T20:14:42.368Z info: Connected to the MySQL database mysql2
+2024-08-21T20:14:48.202Z info: Connected to the MySQL database mysql2
+2024-08-21T20:14:49.914Z info: Connected to the MySQL database mysql2
+2024-08-21T20:15:38.848Z info: Historical Performance created:
+2024-08-21T20:15:38.848Z info: Create Historical Performance - Performance Created
+2024-08-21T20:15:55.627Z info: Retrieved historical performance by vendor ID:

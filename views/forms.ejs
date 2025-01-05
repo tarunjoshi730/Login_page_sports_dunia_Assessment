@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+    <style>
+        /* General body styling */
+        body {
+            background: linear-gradient(90deg, #ecaf69 0%, #ecaf69 50%);
+            font-family: "Roboto", sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        /* Container styling for the forms section */
+        .forms-container {
+            background-color: #f2f2f2;
+            border-radius: 8px;
+            padding: 40px;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 800px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Heading styling */
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Button container styling */
+        .button-container {
+            margin-top: 20px;
+        }
+
+        /* Button styling */
+        .button-container a {
+            display: inline-block;
+            margin: 0 10px 10px 0;
+            text-decoration: none;
+        }
+
+        .button-container button {
+            background-color: #4CAF50; /* Green background */
+            color: white; /* White text */
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+        .button-container button:hover {
+            background-color: #45a049; /* Darker green on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="forms-container">
+        <h1>Dash Board</h1>
+        <div class="button-container">
+            <a href="/vendor-form"><button>Vendor Form</button></a>
+            <a href="/purchase-order-form"><button>Purchase Order Form</button></a>
+            <a href="/historical-performance-form"><button>Historical Performance Form</button></a>
+        </div>
+    </div>
+</body>
+</html>
